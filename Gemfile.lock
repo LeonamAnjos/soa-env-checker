@@ -36,7 +36,6 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
-    angularjs-rails (1.5.0)
     arel (6.0.3)
     autoprefixer-rails (6.3.3.1)
       execjs
@@ -152,11 +151,11 @@ GEM
       libv8 (~> 3.16.14.0)
       ref
     thor (0.19.1)
-    thread_safe (0.3.5)
+    thread_safe (0.3.6)
     tilt (2.0.2)
     turbolinks (2.5.3)
       coffee-rails
-    tzinfo (1.2.2)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     uglifier (2.7.2)
       execjs (>= 0.3.0)
@@ -171,7 +170,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  angularjs-rails (~> 1.5)
   bootstrap
   byebug
   coffee-rails (~> 4.1.0)
